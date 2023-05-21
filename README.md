@@ -1,1 +1,1 @@
-# background-generator-exercise
+# background-generator
